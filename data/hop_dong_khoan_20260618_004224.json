@@ -1,0 +1,50 @@
+[
+  {
+    "source": "congbao",
+    "topic": "hop_dong_khoan",
+    "topic_name": "Hợp đồng khoán",
+    "title": "Văn bản mẫu về hợp đồng khoán",
+    "url": "https://congbao.chinhphu.vn/demo/hợp đồng khoán",
+    "date": "2026-06-18",
+    "type": "Nghị định",
+    "content": "Nội dung mẫu cho văn bản về hợp đồng khoán",
+    "classified_topic": "hop_dong_khoan",
+    "classified_topic_name": "Hợp đồng khoán"
+  },
+  {
+    "source": "congbao",
+    "topic": "hop_dong_khoan",
+    "topic_name": "Hợp đồng khoán",
+    "title": "Văn bản mẫu về thuế khoán",
+    "url": "https://congbao.chinhphu.vn/demo/thuế khoán",
+    "date": "2026-06-18",
+    "type": "Nghị định",
+    "content": "Nội dung mẫu cho văn bản về thuế khoán",
+    "classified_topic": "hop_dong_khoan",
+    "classified_topic_name": "Hợp đồng khoán"
+  },
+  {
+    "source": "thuvienphapluat",
+    "topic": "hop_dong_khoan",
+    "topic_name": "Hợp đồng khoán",
+    "title": "Văn bản TLPL về hợp đồng khoán",
+    "url": "https://thuvienphapluat.vn/demo/hợp đồng khoán",
+    "date": "2026-06-18",
+    "type": "Thông tư",
+    "content": "Nội dung TLPL cho hợp đồng khoán",
+    "classified_topic": "hop_dong_khoan",
+    "classified_topic_name": "Hợp đồng khoán"
+  },
+  {
+    "source": "thuvienphapluat",
+    "topic": "hop_dong_khoan",
+    "topic_name": "Hợp đồng khoán",
+    "title": "Văn bản TLPL về thuế khoán",
+    "url": "https://thuvienphapluat.vn/demo/thuế khoán",
+    "date": "2026-06-18",
+    "type": "Thông tư",
+    "content": "Nội dung TLPL cho thuế khoán",
+    "classified_topic": "hop_dong_khoan",
+    "classified_topic_name": "Hợp đồng khoán"
+  }
+]

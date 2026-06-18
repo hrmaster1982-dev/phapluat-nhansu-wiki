@@ -1,0 +1,74 @@
+[
+  {
+    "source": "congbao",
+    "topic": "cong_doan",
+    "topic_name": "Công đoàn",
+    "title": "Văn bản mẫu về công đoàn",
+    "url": "https://congbao.chinhphu.vn/demo/công đoàn",
+    "date": "2026-06-18",
+    "type": "Nghị định",
+    "content": "Nội dung mẫu cho văn bản về công đoàn",
+    "classified_topic": "cong_doan",
+    "classified_topic_name": "Công đoàn"
+  },
+  {
+    "source": "congbao",
+    "topic": "cong_doan",
+    "topic_name": "Công đoàn",
+    "title": "Văn bản mẫu về luật công đoàn",
+    "url": "https://congbao.chinhphu.vn/demo/luật công đoàn",
+    "date": "2026-06-18",
+    "type": "Nghị định",
+    "content": "Nội dung mẫu cho văn bản về luật công đoàn",
+    "classified_topic": "cong_doan",
+    "classified_topic_name": "Công đoàn"
+  },
+  {
+    "source": "thuvienphapluat",
+    "topic": "cong_doan",
+    "topic_name": "Công đoàn",
+    "title": "Văn bản TLPL về công đoàn",
+    "url": "https://thuvienphapluat.vn/demo/công đoàn",
+    "date": "2026-06-18",
+    "type": "Thông tư",
+    "content": "Nội dung TLPL cho công đoàn",
+    "classified_topic": "cong_doan",
+    "classified_topic_name": "Công đoàn"
+  },
+  {
+    "source": "thuvienphapluat",
+    "topic": "cong_doan",
+    "topic_name": "Công đoàn",
+    "title": "Văn bản TLPL về luật công đoàn",
+    "url": "https://thuvienphapluat.vn/demo/luật công đoàn",
+    "date": "2026-06-18",
+    "type": "Thông tư",
+    "content": "Nội dung TLPL cho luật công đoàn",
+    "classified_topic": "cong_doan",
+    "classified_topic_name": "Công đoàn"
+  },
+  {
+    "source": "vbpl",
+    "topic": "cong_doan",
+    "topic_name": "Công đoàn",
+    "title": "Văn bản VBQPPL về công đoàn",
+    "url": "https://vbpl.vn/demo/công đoàn",
+    "date": "2026-06-18",
+    "type": "Luật",
+    "content": "Nội dung VBQPPL cho công đoàn",
+    "classified_topic": "cong_doan",
+    "classified_topic_name": "Công đoàn"
+  },
+  {
+    "source": "vbpl",
+    "topic": "cong_doan",
+    "topic_name": "Công đoàn",
+    "title": "Văn bản VBQPPL về luật công đoàn",
+    "url": "https://vbpl.vn/demo/luật công đoàn",
+    "date": "2026-06-18",
+    "type": "Luật",
+    "content": "Nội dung VBQPPL cho luật công đoàn",
+    "classified_topic": "cong_doan",
+    "classified_topic_name": "Công đoàn"
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "source": "congbao",
+    "topic": "chinh_sach_doanh_nghiep",
+    "topic_name": "Chính sách doanh nghiệp",
+    "title": "Văn bản mẫu về chính sách doanh nghiệp",
+    "url": "https://congbao.chinhphu.vn/demo/chính sách doanh nghiệp",
+    "date": "2026-06-18",
+    "type": "Nghị định",
+    "content": "Nội dung mẫu cho văn bản về chính sách doanh nghiệp",
+    "classified_topic": "chinh_sach_doanh_nghiep",
+    "classified_topic_name": "Chính sách doanh nghiệp"
+  },
+  {
+    "source": "congbao",
+    "topic": "chinh_sach_doanh_nghiep",
+    "topic_name": "Chính sách doanh nghiệp",
+    "title": "Văn bản mẫu về luật doanh nghiệp",
+    "url": "https://congbao.chinhphu.vn/demo/luật doanh nghiệp",
+    "date": "2026-06-18",
+    "type": "Nghị định",
+    "content": "Nội dung mẫu cho văn bản về luật doanh nghiệp",
+    "classified_topic": "chinh_sach_doanh_nghiep",
+    "classified_topic_name": "Chính sách doanh nghiệp"
+  },
+  {
+    "source": "thuvienphapluat",
+    "topic": "chinh_sach_doanh_nghiep",
+    "topic_name": "Chính sách doanh nghiệp",
+    "title": "Văn bản TLPL về chính sách doanh nghiệp",
+    "url": "https://thuvienphapluat.vn/demo/chính sách doanh nghiệp",
+    "date": "2026-06-18",
+    "type": "Thông tư",
+    "content": "Nội dung TLPL cho chính sách doanh nghiệp",
+    "classified_topic": "chinh_sach_doanh_nghiep",
+    "classified_topic_name": "Chính sách doanh nghiệp"
+  },
+  {
+    "source": "thuvienphapluat",
+    "topic": "chinh_sach_doanh_nghiep",
+    "topic_name": "Chính sách doanh nghiệp",
+    "title": "Văn bản TLPL về luật doanh nghiệp",
+    "url": "https://thuvienphapluat.vn/demo/luật doanh nghiệp",
+    "date": "2026-06-18",
+    "type": "Thông tư",
+    "content": "Nội dung TLPL cho luật doanh nghiệp",
+    "classified_topic": "chinh_sach_doanh_nghiep",
+    "classified_topic_name": "Chính sách doanh nghiệp"
+  },
+  {
+    "source": "vbpl",
+    "topic": "chinh_sach_doanh_nghiep",
+    "topic_name": "Chính sách doanh nghiệp",
+    "title": "Văn bản VBQPPL về chính sách doanh nghiệp",
+    "url": "https://vbpl.vn/demo/chính sách doanh nghiệp",
+    "date": "2026-06-18",
+    "type": "Luật",
+    "content": "Nội dung VBQPPL cho chính sách doanh nghiệp",
+    "classified_topic": "chinh_sach_doanh_nghiep",
+    "classified_topic_name": "Chính sách doanh nghiệp"
+  },
+  {
+    "source": "vbpl",
+    "topic": "chinh_sach_doanh_nghiep",
+    "topic_name": "Chính sách doanh nghiệp",
+    "title": "Văn bản VBQPPL về luật doanh nghiệp",
+    "url": "https://vbpl.vn/demo/luật doanh nghiệp",
+    "date": "2026-06-18",
+    "type": "Luật",
+    "content": "Nội dung VBQPPL cho luật doanh nghiệp",
+    "classified_topic": "chinh_sach_doanh_nghiep",
+    "classified_topic_name": "Chính sách doanh nghiệp"
+  }
+]

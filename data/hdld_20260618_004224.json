@@ -1,0 +1,98 @@
+[
+  {
+    "source": "congbao",
+    "topic": "hdld",
+    "topic_name": "Hợp đồng lao động",
+    "title": "Văn bản mẫu về hợp đồng lao động",
+    "url": "https://congbao.chinhphu.vn/demo/hợp đồng lao động",
+    "date": "2026-06-18",
+    "type": "Nghị định",
+    "content": "Nội dung mẫu cho văn bản về hợp đồng lao động",
+    "classified_topic": "hdld",
+    "classified_topic_name": "Hợp đồng lao động"
+  },
+  {
+    "source": "congbao",
+    "topic": "hdld",
+    "topic_name": "Hợp đồng lao động",
+    "title": "Văn bản mẫu về luật lao động",
+    "url": "https://congbao.chinhphu.vn/demo/luật lao động",
+    "date": "2026-06-18",
+    "type": "Nghị định",
+    "content": "Nội dung mẫu cho văn bản về luật lao động",
+    "classified_topic": "hdld",
+    "classified_topic_name": "Hợp đồng lao động"
+  },
+  {
+    "source": "thuvienphapluat",
+    "topic": "hdld",
+    "topic_name": "Hợp đồng lao động",
+    "title": "Văn bản TLPL về hợp đồng lao động",
+    "url": "https://thuvienphapluat.vn/demo/hợp đồng lao động",
+    "date": "2026-06-18",
+    "type": "Thông tư",
+    "content": "Nội dung TLPL cho hợp đồng lao động",
+    "classified_topic": "hdld",
+    "classified_topic_name": "Hợp đồng lao động"
+  },
+  {
+    "source": "thuvienphapluat",
+    "topic": "hdld",
+    "topic_name": "Hợp đồng lao động",
+    "title": "Văn bản TLPL về luật lao động",
+    "url": "https://thuvienphapluat.vn/demo/luật lao động",
+    "date": "2026-06-18",
+    "type": "Thông tư",
+    "content": "Nội dung TLPL cho luật lao động",
+    "classified_topic": "hdld",
+    "classified_topic_name": "Hợp đồng lao động"
+  },
+  {
+    "source": "congbao",
+    "topic": "hop_dong_kinh_te",
+    "topic_name": "Hợp đồng kinh tế",
+    "title": "Văn bản mẫu về hợp đồng kinh tế",
+    "url": "https://congbao.chinhphu.vn/demo/hợp đồng kinh tế",
+    "date": "2026-06-18",
+    "type": "Nghị định",
+    "content": "Nội dung mẫu cho văn bản về hợp đồng kinh tế",
+    "classified_topic": "hdld",
+    "classified_topic_name": "Hợp đồng lao động"
+  },
+  {
+    "source": "congbao",
+    "topic": "hop_dong_kinh_te",
+    "topic_name": "Hợp đồng kinh tế",
+    "title": "Văn bản mẫu về hợp đồng thương mại",
+    "url": "https://congbao.chinhphu.vn/demo/hợp đồng thương mại",
+    "date": "2026-06-18",
+    "type": "Nghị định",
+    "content": "Nội dung mẫu cho văn bản về hợp đồng thương mại",
+    "classified_topic": "hdld",
+    "classified_topic_name": "Hợp đồng lao động"
+  },
+  {
+    "source": "thuvienphapluat",
+    "topic": "hop_dong_kinh_te",
+    "topic_name": "Hợp đồng kinh tế",
+    "title": "Văn bản TLPL về hợp đồng kinh tế",
+    "url": "https://thuvienphapluat.vn/demo/hợp đồng kinh tế",
+    "date": "2026-06-18",
+    "type": "Thông tư",
+    "content": "Nội dung TLPL cho hợp đồng kinh tế",
+    "classified_topic": "hdld",
+    "classified_topic_name": "Hợp đồng lao động"
+  },
+  {
+    "source": "thuvienphapluat",
+    "topic": "hop_dong_kinh_te",
+    "topic_name": "Hợp đồng kinh tế",
+    "title": "Văn bản TLPL về hợp đồng thương mại",
+    "url": "https://thuvienphapluat.vn/demo/hợp đồng thương mại",
+    "date": "2026-06-18",
+    "type": "Thông tư",
+    "content": "Nội dung TLPL cho hợp đồng thương mại",
+    "classified_topic": "hdld",
+    "classified_topic_name": "Hợp đồng lao động"
+  }
+]

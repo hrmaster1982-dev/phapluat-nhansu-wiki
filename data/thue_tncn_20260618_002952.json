@@ -1,0 +1,50 @@
+[
+  {
+    "source": "congbao",
+    "topic": "thue_tncn",
+    "topic_name": "Thuế thu nhập cá nhân",
+    "title": "Văn bản mẫu về thuế thu nhập cá nhân",
+    "url": "https://congbao.chinhphu.vn/demo/thuế thu nhập cá nhân",
+    "date": "2026-06-18",
+    "type": "Nghị định",
+    "content": "Nội dung mẫu cho văn bản về thuế thu nhập cá nhân",
+    "classified_topic": "thue_tncn",
+    "classified_topic_name": "Thuế thu nhập cá nhân"
+  },
+  {
+    "source": "congbao",
+    "topic": "thue_tncn",
+    "topic_name": "Thuế thu nhập cá nhân",
+    "title": "Văn bản mẫu về luật thuế thu nhập cá nhân",
+    "url": "https://congbao.chinhphu.vn/demo/luật thuế thu nhập cá nhân",
+    "date": "2026-06-18",
+    "type": "Nghị định",
+    "content": "Nội dung mẫu cho văn bản về luật thuế thu nhập cá nhân",
+    "classified_topic": "thue_tncn",
+    "classified_topic_name": "Thuế thu nhập cá nhân"
+  },
+  {
+    "source": "thuvienphapluat",
+    "topic": "thue_tncn",
+    "topic_name": "Thuế thu nhập cá nhân",
+    "title": "Văn bản TLPL về thuế thu nhập cá nhân",
+    "url": "https://thuvienphapluat.vn/demo/thuế thu nhập cá nhân",
+    "date": "2026-06-18",
+    "type": "Thông tư",
+    "content": "Nội dung TLPL cho thuế thu nhập cá nhân",
+    "classified_topic": "thue_tncn",
+    "classified_topic_name": "Thuế thu nhập cá nhân"
+  },
+  {
+    "source": "thuvienphapluat",
+    "topic": "thue_tncn",
+    "topic_name": "Thuế thu nhập cá nhân",
+    "title": "Văn bản TLPL về luật thuế thu nhập cá nhân",
+    "url": "https://thuvienphapluat.vn/demo/luật thuế thu nhập cá nhân",
+    "date": "2026-06-18",
+    "type": "Thông tư",
+    "content": "Nội dung TLPL cho luật thuế thu nhập cá nhân",
+    "classified_topic": "thue_tncn",
+    "classified_topic_name": "Thuế thu nhập cá nhân"
+  }
+]
